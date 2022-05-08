@@ -1,0 +1,34 @@
+Colors
+
+    
+    <color name="green">#FF4CAF50</color>
+    <color name="yellow">#FFB701</color>
+    <color name="red">#f55c47</color>
+    <color name="blue">#38ACDD</color>
+    <color name="card_bg">#D3D1D1</color>
+    <color name="relative_bg">#2b2e4a</color>
+    <color name="countycode_bg">#EAE9E9</color>
+
+
+Strings
+
+
+ <string name="active">Active</string>
+    <string name="recovered">Recovered</string>
+    <string name="total">Total</string>
+    <string name="deaths">Deaths</string>
+    <string name="covid_19">Covid-19</string>
+    <string name="country">Country</string>
+    <string name="cases">Cases</string>
+    <string name="increment_number">+232325</string>
+    <string name="number">2323236544</string>
+
+
+Dependency
+
+
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+    implementation 'com.hbb20:ccp:2.5.1'
+    implementation 'com.github.blackfizz:eazegraph:1.2.2@aar'
+    implementation 'com.nineoldandroids:library:2.4.0'

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="activecase" type="id" />
+    <item name="totaldeath" type="id" />
+    <item name="todaydeath" type="id" />
+</resources>
